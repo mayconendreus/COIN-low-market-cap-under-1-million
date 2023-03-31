@@ -11,7 +11,7 @@ parameters = {
 }
 headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': 'f8cd6925-5a57-4d67-b8bf-e1bcdb11a47f',
+    'X-CMC_PRO_API_KEY': 'API_KEY',
 }
 
 market_cap_threshold = 1000000 # Maximum market cap threshold in USD
